@@ -113,3 +113,8 @@ For optimal results:
 
 ## Dataset link for nerf
 https://www.kaggle.com/datasets/nguyenhung1903/nerf-synthetic-dataset
+
+## To view result of the model upload the .ply file in the following link (For the ouput of this model upload point_cloud.30000.ply from the google drive)
+Google drive link: https://drive.google.com/file/d/1AKhWp-gLo15z952EYVv1-9B7hS6i41Zv/view?usp=sharing
+View result in : https://superspl.at/editor
+
